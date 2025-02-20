@@ -9,12 +9,12 @@ This AI-Powered Career Coach is designed to analyze resumes and job descriptions
 When you upload a resume and a job description, the system provides the following insights:
 
 1. **Missing Skills**: Compares the skills mentioned in the job description with those in the resume and lists any skills or requirements missing from the resume.
-2. **Suggestions**: Provides actionable suggestions to improve the resume to better align with the job description.
+2. **Suggestions**: Provide actionable suggestions to improve the resume to better align with the job description.
 3. **Formatting Tips**:
    - **Do's**: Lists positive practices that improve the resume's readability and professional appearance.
    - **Don'ts**: Highlights common mistakes or formatting issues that should be avoided.
 4. **Skill Match Percentage**: Calculates a percentage value representing how well the resume matches the job description based on skills and qualifications.
-5. **Mock Interview Questions**: Generates three relevant mock interview questions based on the job description.
+5. **Mock Interview Questions**: Generate three relevant mock interview questions based on the job description.
 
 ## How It Works
 
@@ -143,3 +143,6 @@ The following images showcase different parts of the application:
 - Support **multiple file formats** beyond PDF.
 - Implement **more advanced NLP techniques** for deeper job match analysis.
 - Integrate **OAuth login (Google/LinkedIn)** for a more personalized experience.
+## Collaborators
+- **Luv Gadhvi** - Developer
+- **Kush Gadhvi** - Developer
