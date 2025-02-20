@@ -124,9 +124,9 @@ This project consists of two main directories:
 
 The following images showcase different parts of the application:
 
-- **Home Page**: `![Home Page](./Screenshot/home_page.png)`
-- **Resume Upload Page**: `![Upload Page](./Screenshot/upload_page.png)`
-- **Analysis Results Page**: `![Analysis Page](./Screenshot/anlysis_page.png)`
+**Home Page**: <img src="Screenshot/home_page.png"/>
+**Resume Upload Page**:<img src="Screenshot/upload_page.png"/>
+**Analysis Results Page**: <img src="Screenshot/anlysis_page.png"/>
 
 ## API Endpoint
 
